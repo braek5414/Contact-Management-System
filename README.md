@@ -26,6 +26,7 @@ The system provides a simple menu that lets users:
 ### **Show Contacts**
 Displays all contacts currently saved in the `contact.txt` file.  
 Each contact is shown as:
+
 Name: <name>
 Email: <email>
 Phone: <phone>
